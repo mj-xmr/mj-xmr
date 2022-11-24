@@ -1,6 +1,6 @@
 - Pronouns: *he/his* ... don't be silly.
 
-## Main main projects' star history
+## Main projects' star history
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mj-xmr/SolOptXMR,mj-xmr/tsqsim&type=Date)](https://star-history.com/#mj-xmr/SolOptXMR&mj-xmr/tsqsim&Date)
 
