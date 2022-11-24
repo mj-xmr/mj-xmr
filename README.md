@@ -1,4 +1,8 @@
-### Hi there 👋
+- Pronouns: *he/his* ... don't be silly.
+
+## Main main projects' star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mj-xmr/SolOptXMR,mj-xmr/tsqsim&type=Date)](https://star-history.com/#mj-xmr/SolOptXMR&mj-xmr/tsqsim&Date)
 
 <!--
 **mj-xmr/mj-xmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
