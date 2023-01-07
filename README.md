@@ -1,7 +1,7 @@
 'sup, dawgs!?
 Let's get this peep show running!
 
-- Pronouns: *he/his* ... don't be silly.
+- Pronouns: *he/his* ... don't talk to me, as if I were more than one person.
 
 ## Main projects' star history
 
